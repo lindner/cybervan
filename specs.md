@@ -22,21 +22,25 @@ tries to optmize for the following:
 
 ### Portable Power
 
-* Rockpals 520Wh / 
+* Rockpals 520Wh Bank
+  * 4x 12V/10A outputs
+  * Can charge/passthru when using DC only
 
 ### Projection System
 
-* [MosicGO EliteProjector Ultra Short Throw])(https://www.amazon.com/gp/product/B09SZ4WNJ5)
+* [MosicGO EliteProjector Ultra Short Throw](https://www.amazon.com/gp/product/B09SZ4WNJ5)
+  * [Specification](https://www.eliteprojector.com/spec.html)
   * Draws about 70w or so, depending on brightness.
+  * Does 9ft width at 32" from front, 40" from back.  (With some distortion)
 * [Vivo Universal Ceiling Mount](https://www.amazon.com/dp/B01014CD0O)
 * [DC Converter 12V to 19V](https://www.amazon.com/dp/B083TQS978)
 * Crossbar
 * Clamps
 
 Sadly the MosicGO runs off 19v, so we have to add a transformer into
-the mix.  You can get a version with a built-in XXXmAh battery.  But
+the mix.  You can get a version with a built-in 372,000mAh battery.  But
 the upcharge and availability were not as easy.  For the same price
-you can get an external unit.
+you can get an external battery that is usable for more things.
 
 ### Lighting
 
