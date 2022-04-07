@@ -17,6 +17,11 @@ tries to optmize for the following:
 
 ### Decor
 
+* 6" Non-Slip Hazard Tape
+* 4" Reflective yellow/red tape
+* Corrosive/Radiation/Spontaneous Combustion signs from https://www.northerntool.com/
+* Radiation symbol tire covers (TODO)
+* Other decals?
 
 ## Audio/Video
 
@@ -61,6 +66,7 @@ TODO: Use Fiber Optic whip and chain to make a cool entry.
 * LED Controller
   * [BTF Lighting SP1701E Controller](https://www.amazon.com/gp/product/B07HFVW1G7)
   * [LED Chord](https://play.google.com/store/apps/details?id=com.spled.pzse) Android App
+  * Only supports 64 segments, and the rope has 6 pixel, instead of 90x6 had to do 45x12
 * TODO magnet attachments
 
 ### Mast

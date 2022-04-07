@@ -61,6 +61,8 @@ The following is a list of items that will be part of the finished project.
 - A Video archive containing content to stream.
 - UV Black lights.
 
+More details on the [Specs](specs.md) page
+
 ## Chameleon Skin Howto
 
 A rough sketch on how to make the Van look different
@@ -87,6 +89,6 @@ windshield covering) should either use the Van Skin/Theme or when in Music Mode
 flash based on amnbient audio.
 
 
-## More Crazy Idea
+## More Crazy Ideas
 
 Collecting these over on [Ideas](ideas.md)
