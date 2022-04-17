@@ -19,3 +19,25 @@
 - tilt/shift camera on top of telecopic pole.
 - Also Antenna?
 - Trailer Hitch
+
+
+
+# Chameleon skins
+
+- Big Time Logo
+
+Advertisements
+
+- Zik Zak advertisements.
+- New Coke Ride the Wave
+
+# Decorations
+
+Yellow/Black hazard
+Blue tint for side windows
+Wheel well covers
+
+
+Laser Cube
+Short-throw projectors
+
